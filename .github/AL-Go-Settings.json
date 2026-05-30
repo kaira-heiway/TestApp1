@@ -3,6 +3,7 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "environments": [
-    "HeiliteBC_RTR_2"
+    "HeiliteBC_RTR_2",
+    "HeiliteBC_RTR_1"
   ]
 }
