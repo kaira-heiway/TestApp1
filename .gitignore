@@ -9,7 +9,6 @@ BuildOutput.txt
 rad.json
 .output/
 .buildartifacts/
-.alpackages/
 .packages/
 .alcache/
 .altemplates/
