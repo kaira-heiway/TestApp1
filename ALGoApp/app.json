@@ -2,7 +2,7 @@
   "id": "2ea8fba5-f532-46f9-b021-65e2fa307b97",
   "name": "ALGoApp",
   "publisher": "IBM",
-  "version": "1.0.0.2",
+  "version": "1.0.0.3",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -11,6 +11,12 @@
   "url": "",
   "logo": "",
   "dependencies": [
+    {
+      "id": "811f4260-30ed-4070-af68-fcdd5158c5dd",
+      "name": "Heilite_Foundation",
+      "publisher": "IBM",
+      "version": "1.0.0.33"
+    }
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
