@@ -3,6 +3,5 @@
   "country": "us",
   "appFolders": ["ALGoApp"],
   "testFolders": [],
-  "bcptTestFolders": [],
-  "installApps": true
+  "bcptTestFolders": []
 }
