@@ -2,10 +2,15 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v9.0/.Modules/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
-  "useProjectDependencies": true,
-  "dependencyAppFilePaths": [
-    ".dependencies"
-  ],
+  "useProjectDependencies": true, 
+  "projects": {
+  "ALGoApp": {
+    "dependencyAppFilePaths": [
+      ".dependencies"
+    ]
+  }
+}
+,
   "environments": [
     "HeiliteBC_RTR_2"
   ]
