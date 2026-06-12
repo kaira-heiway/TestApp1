@@ -3,13 +3,13 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "useProjectDependencies": true, 
-  "projects": {
-  "ALGoApp": {
-    "dependencyAppFilePaths": [
-      ".dependencies"
+  "appDependencyProbingPaths": [
+        {
+            "repo": ".",
+            "release_status": "folder",
+            "projects": "*"
+        }
     ]
-  }
-}
 ,
   "environments": [
     "HeiliteBC_RTR_2"
