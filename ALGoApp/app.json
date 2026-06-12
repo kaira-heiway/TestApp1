@@ -12,10 +12,10 @@
   "logo": "",
   "dependencies": [
     {
-      "id": "811f4260-30ed-4070-af68-fcdd5158c5dd",
-      "name": "Heilite_Foundation",
-      "publisher": "IBM",
-      "version": "1.0.0.23"
+       "id": "4632ef53-5e69-4c7e-b8d2-52de3fe0d704",
+       "name": "Common",
+       "publisher": "IBM",
+       "version": "1.0.3.0"
     }
   ],
   "screenshots": [],
