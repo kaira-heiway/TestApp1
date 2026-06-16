@@ -13,6 +13,6 @@
     ],
     "generateDependencyArtifact":true,
     "installApps": [
-    "https://github.com/kaira-heiway/dependency/releases/download/Aptean/ApteanAllApps.zip"
+    "https://github.com/kaira-heiway/dependency/releases/download/Aptean/ApteanTotalApps.zip"
   ]
 }
