@@ -11,8 +11,5 @@
             "projects": "*"
         }
     ],
-    "generateDependencyArtifact":true,
-    "installApps": [
-    "https://github.com/kaira-heiway/dependency/releases/download/Aptean/ApteanTotalApps_Clean.zip"
-  ]
+    "generateDependencyArtifact":true
 }
