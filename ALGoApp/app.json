@@ -2,7 +2,7 @@
   "id": "2ea8fba5-f532-46f9-b021-65e2fa307b97",
   "name": "ALGoApp",
   "publisher": "IBM",
-  "version": "1.0.0.9",
+  "version": "1.1.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -12,12 +12,12 @@
   "logo": "",
   "dependencies": [
     {
-       "id": "4632ef53-5e69-4c7e-b8d2-52de3fe0d704",
-       "name": "Common",
-       "publisher": "IBM",
-       "version": "1.0.3.0"
+      "id": "4632ef53-5e69-4c7e-b8d2-52de3fe0d704",
+      "name": "Common",
+      "publisher": "IBM",
+      "version": "1.0.3.0"
     },
-     {
+    {
       "id": "811f4260-30ed-4070-af68-fcdd5158c5dd",
       "name": "Heilite_Foundation",
       "publisher": "IBM",

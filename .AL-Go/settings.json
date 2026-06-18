@@ -4,16 +4,16 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "appDependencyProbingPaths":  [
-        {
-            "repo": "https://github.com/kaira-heiway/CBN",
-            "release_status": "latestBuild",
-            "projects": "*"
-        }
-    ],
-    "generateDependencyArtifact":true,
-    "installApps": [
+  "appDependencyProbingPaths": [
+    {
+      "repo": "https://github.com/kaira-heiway/CBN",
+      "release_status": "latestBuild",
+      "projects": "*"
+    }
+  ],
+  "generateDependencyArtifact": true,
+  "installApps": [
     "https://github.com/kaira-heiway/dependency/releases/download/Aptean/ApteanAppSets.zip"
-  ]
+  ],
+  "repoVersion": "1.1"
 }
- 
